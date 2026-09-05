@@ -1,1 +1,4 @@
-streamlitecho pandasecho numpyecho scikit-learn==1.6.1
+streamlit
+pandas
+numpy
+scikit-learn==1.6.1
